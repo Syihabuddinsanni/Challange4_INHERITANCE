@@ -23,13 +23,12 @@ di Website website yang tujuannya adalah untuk menghindari_ **BOT**_ :V
 Termasuk harga tetap / harga yang tidak dapat diubah (Kecuali Creator nya yang ngerubah :v) 
 ## Code
 Jadi Untuk yang List harga diatas saya menggunakan Set(buat set merk nya / buat nulis List Harga dan get(untuk memanggil sekaligus
-print nya) dan kemudian akan di panggil dengan get
-#
+print nya) dan kemudian akan di panggil dengan get. 
 > kuda.setMerk(" LIST BARANG + HARGANYA ");
->  System.out.println("Merk    : " + kuda.getMerk());
-#
+  System.out.println("Merk    : " + kuda.getMerk());
 Tapi Sebelum nya kita harus membuat Method nya terlebih dahulu di SuperClass
 
+#
 
 
 ![Alt text](https://github.com/Syihabuddinsanni/Challange4_INHERITANCE/blob/master/SS%20RUN%20FILE/Input%20Pilihan%201.PNG)
