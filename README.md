@@ -2,6 +2,9 @@
 
 
 # ℂ𝕙𝕒𝕝𝕝𝕒𝕟𝕘𝕖
+# == 𝔸𝔹𝕆𝕌𝕋 ℂℝ𝔼𝔸𝕋𝕆ℝ ==
+![Alt text](https://github.com/Syihabuddinsanni/Challange4_INHERITANCE/blob/master/SS%20RUN%20FILE/Creator.PNG)
+#
 
 - [x] SuperSepatu         : SuperClass / Induk
 > karena di class ini tidak terdapat Fungsi Main() dan class ini terdiri dari method method yang
