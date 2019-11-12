@@ -93,3 +93,16 @@ Jika User menginputkan jumlah pembelian lebih dari 3 maka program akan error.
 ![Alt text](https://github.com/Syihabuddinsanni/Challange4_INHERITANCE/blob/master/SS%20RUN%20FILE/Struk%20Final.PNG)
 
 
+# KESIMPULAN
+ - Pewarisan adalah proses pen&iptaan &lass baru )engan mewarisi karekteristik &lass yang telah ada
+ ### READ THIS !
+- [x] Latihan
+- [x] Challange
+- [ ] Tugas Kelompok
+- [x] Kesimpulan
+- [ ] Refleksi
+- [ ] Data dari tugas Praktikum diambil sesuai fakta 
+- [ ]  Dikasi Stars Viewers :v
+- [ ]  Jangan lupa Follow ya!!, para stalkers :V
+
+Follow Ig saia :v [Instagram](https://www.instagram.com/_sh3hub/). <== Click tulisan biru di samping 
