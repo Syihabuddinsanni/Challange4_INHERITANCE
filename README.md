@@ -31,7 +31,7 @@ print nya) dan kemudian akan di panggil dengan get.
 > System.out.println("Merk    : " + kuda.getMerk());
 
 
-- [x]Tapi Sebelum nya kita harus membuat Method nya terlebih dahulu di SuperClass
+- [x] Tapi Sebelum nya kita harus membuat Method nya terlebih dahulu di SuperClass
 
 #
 
