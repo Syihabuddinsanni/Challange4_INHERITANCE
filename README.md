@@ -51,6 +51,7 @@ Pilihan Jenis yaitu Ada Cowok/Cewek Sesuai Kebutuhan dan keinginan User.
 # 3
 #### Menginputkan Kategori
 ![Alt text](https://github.com/Syihabuddinsanni/Challange4_INHERITANCE/blob/master/SS%20RUN%20FILE/Input%20Pilihan%201.PNG)
+
 Jadi Selanjutnya User akan diminta untuk menginputkan Kategori pilihan User / Sesuai kebutuhan user Sesuai dengan yang
 tertera di Program.
 ## Gimana caranya ?
@@ -58,10 +59,11 @@ tertera di Program.
 
 - ex : Jika misal user ingin memilih kategori **_Olahraga_** jadi user hanya perlu mengetikan angka **"1"**
 
-
-
-
+# 4
+#### Menginputkan Ukuran
 ![Alt text](https://github.com/Syihabuddinsanni/Challange4_INHERITANCE/blob/master/SS%20RUN%20FILE/Input%20Pilihan%201.PNG)
+
+Jadi disini User juga harus menginputkan Ukuran sepatu yang ingin dibeli ( Sesuai Dengan Ukuran Yang tersedia
 
 
 
