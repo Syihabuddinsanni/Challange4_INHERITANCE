@@ -41,7 +41,7 @@ print nya) dan kemudian akan di panggil dengan get.
 #### Disini kita Menginputkan Pilihan sesuai Dengan Angka Yang sudah tertera di List Harga
 ![Alt text](https://github.com/Syihabuddinsanni/Challange4_INHERITANCE/blob/master/SS%20RUN%20FILE/Input%20Pilihan%201.PNG)
 # How ?
-    Jadi kita / user harus mengginputkan_ **ANGKA** _Yang sudah tertera di dalam LIST tadi sesuai Pilihan dan budget user_
+    Jadi kita / user harus mengginputkan_ "ANGKA" _Yang sudah tertera di dalam LIST tadi sesuai Pilihan dan budget user_
 #
 # ꜱᴛᴇᴘ 2
 #### Menginputkan Jenis
@@ -61,7 +61,7 @@ tertera di Program.
 ## Gimana caranya ?
 > Jadi User hanya tinggal menginputkan **_ANGKANYA SAJA_** Tidak perlu menggunakan huruf Karena Menggunakan **_INTEGER_**
 
-    - ex : Jika misal user ingin memilih kategori **_Olahraga_** jadi user hanya perlu mengetikan angka **"1"**
+    - ex : Jika misal user ingin memilih kategori Olahraga jadi user hanya perlu mengetikan angka "1"
 #
 # ꜱᴛᴇᴘ 4
 #### Menginputkan Ukuran
