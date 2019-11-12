@@ -38,3 +38,35 @@ print nya) dan kemudian akan di panggil dengan get.
 ![Alt text](https://github.com/Syihabuddinsanni/Challange4_INHERITANCE/blob/master/SS%20RUN%20FILE/Input%20Pilihan%201.PNG)
 # How ?
 _Jadi kita / user harus mengginputkan_ **ANGKA** _Yang sudah tertera di dalam LIST tadi sesuai Pilihan dan budget user_
+
+# 2
+#### Menginputkan Jenis
+![Alt text](https://github.com/Syihabuddinsanni/Challange4_INHERITANCE/blob/master/SS%20RUN%20FILE/Input%202.PNG)
+> Nah jadi disini setelah user menginputkan pilihan Merk nya tadi **Di INPUT 1** Kali ini User harus menginputkan
+Pilihan Jenis yaitu Ada Cowok/Cewek Sesuai Kebutuhan dan keinginan User.
+
+
+
+
+# 3
+#### Menginputkan Kategori
+![Alt text](https://github.com/Syihabuddinsanni/Challange4_INHERITANCE/blob/master/SS%20RUN%20FILE/Input%20Pilihan%201.PNG)
+Jadi Selanjutnya User akan diminta untuk menginputkan Kategori pilihan User / Sesuai kebutuhan user Sesuai dengan yang
+tertera di Program.
+## Gimana caranya ?
+> Jadi User hanya tinggal menginputkan **_ANGKANYA SAJA_** Tidak perlu menggunakan huruf Karena Menggunakan **_INTEGER_**
+
+- ex : Jika misal user ingin memilih kategori **_Olahraga_** jadi user hanya perlu mengetikan angka **"1"**
+
+
+
+
+![Alt text](https://github.com/Syihabuddinsanni/Challange4_INHERITANCE/blob/master/SS%20RUN%20FILE/Input%20Pilihan%201.PNG)
+
+
+
+
+
+
+![Alt text](https://github.com/Syihabuddinsanni/Challange4_INHERITANCE/blob/master/SS%20RUN%20FILE/Input%20Pilihan%201.PNG)
+
