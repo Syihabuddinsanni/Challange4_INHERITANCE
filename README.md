@@ -112,7 +112,6 @@ Keyword super digunakan oleh subclass untuk memanggil konstuktor yang berada pad
 - [ ] Data dari tugas Praktikum diambil sesuai fakta 
 - [ ]  Dikasi Stars Viewers :v
 - [ ]  Jangan lupa Follow ya!!, para stalkers :V
-
-     Follow Ig saia :v [Instagram](https://www.instagram.com/_sh3hub/). <== Click tulisan biru di samping 
+Follow Ig saia :v [Instagram](https://www.instagram.com/_sh3hub/). <== Click tulisan biru di samping 
 
 
