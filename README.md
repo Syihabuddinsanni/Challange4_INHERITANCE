@@ -16,7 +16,7 @@ adalah class anak.
 ![Alt text](https://github.com/Syihabuddinsanni/Challange4_INHERITANCE/blob/master/SS%20RUN%20FILE/ReChapta!.PNG)
 ## ᴀᴘᴀ ɪᴛᴜ ?
     Rechapta adalah suatu tes kecil kecilan / tebak tebakan sederhana yang ada di suatu program biasanya di gunakan 
-    di Website website yang tujuannya adalah untuk menghindari_ **BOT**_ :V
+    di Website website yang tujuannya adalah untuk menghindari_ "BOT" :V
 
 # Ini Step Cara Menggunakan Program dengan baik dan benar !
 ## -- list harga -- 
