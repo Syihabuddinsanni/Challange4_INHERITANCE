@@ -89,13 +89,21 @@ Jika User menginputkan jumlah pembelian lebih dari 3 maka program akan error.
 > Nah selanjutnya pembeli / user akan diminta untuk memasukan / menginputkan nama / atas nama pembeli untuk di cetak struk nya
 #
 
-# STRUK
+# -- 𝕊𝕋ℝ𝕌𝕂 --
 ![Alt text](https://github.com/Syihabuddinsanni/Challange4_INHERITANCE/blob/master/SS%20RUN%20FILE/Struk%20Final.PNG)
 
 
 # KESIMPULAN
+## INHERITANCE ?
     Pewarisan adalah proses pen&iptaan &lass baru )engan mewarisi karekteristik &lass yang telah ada
- ### READ THIS !
+    
+## Prosedur ?
+Keyword Super | Keyword this | Overloading Methods | Overriding Methods |
+------------ | ------------- | ------------ | ------------- |  
+Keyword super digunakan oleh subclass untuk memanggil konstuktor yang berada pada superclass. | Kata kunci this dipergunakan pada pembuatan kelas dan digunakan untuk menyatakan objek sekarang. | Dalam satu class yang kita buat, kadangkala kita menginginkan untuk membuat method dengan nama yang sama namun mempunyai fungsi yang berbeda menurut parameter yang | Overriding menulis kembali method sama persis. Sama mulai dari nama method dan isinya dan mengimplementasi kembali di subclassnya.
+
+
+### READ THIS !
 - [x] Latihan
 - [x] Challange
 - [ ] Tugas Kelompok
