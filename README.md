@@ -15,8 +15,8 @@ adalah class anak.
 # ʀᴇᴄʜᴀᴘᴛᴀ!
 ![Alt text](https://github.com/Syihabuddinsanni/Challange4_INHERITANCE/blob/master/SS%20RUN%20FILE/ReChapta!.PNG)
 ## ᴀᴘᴀ ɪᴛᴜ ?
-_Rechapta adalah suatu tes kecil kecilan / tebak tebakan sederhana yang ada di suatu program biasanya di gunakan 
-di Website website yang tujuannya adalah untuk menghindari_ **BOT**_ :V
+    Rechapta adalah suatu tes kecil kecilan / tebak tebakan sederhana yang ada di suatu program biasanya di gunakan 
+    di Website website yang tujuannya adalah untuk menghindari_ **BOT**_ :V
 
 # Ini Step Cara Menggunakan Program dengan baik dan benar !
 ## -- list harga -- 
@@ -41,7 +41,7 @@ print nya) dan kemudian akan di panggil dengan get.
 #### Disini kita Menginputkan Pilihan sesuai Dengan Angka Yang sudah tertera di List Harga
 ![Alt text](https://github.com/Syihabuddinsanni/Challange4_INHERITANCE/blob/master/SS%20RUN%20FILE/Input%20Pilihan%201.PNG)
 # How ?
-_Jadi kita / user harus mengginputkan_ **ANGKA** _Yang sudah tertera di dalam LIST tadi sesuai Pilihan dan budget user_
+    Jadi kita / user harus mengginputkan_ **ANGKA** _Yang sudah tertera di dalam LIST tadi sesuai Pilihan dan budget user_
 #
 # ꜱᴛᴇᴘ 2
 #### Menginputkan Jenis
@@ -61,13 +61,13 @@ tertera di Program.
 ## Gimana caranya ?
 > Jadi User hanya tinggal menginputkan **_ANGKANYA SAJA_** Tidak perlu menggunakan huruf Karena Menggunakan **_INTEGER_**
 
-- ex : Jika misal user ingin memilih kategori **_Olahraga_** jadi user hanya perlu mengetikan angka **"1"**
+    - ex : Jika misal user ingin memilih kategori **_Olahraga_** jadi user hanya perlu mengetikan angka **"1"**
 #
 # ꜱᴛᴇᴘ 4
 #### Menginputkan Ukuran
 ![Alt text](https://github.com/Syihabuddinsanni/Challange4_INHERITANCE/blob/master/SS%20RUN%20FILE/Input%204.PNG)
 # Penjelasan ?
-Jadi disini User juga harus menginputkan Ukuran sepatu yang ingin dibeli ( Sesuai Dengan Ukuran Yang tersedia).
+    Jadi disini User juga harus menginputkan Ukuran sepatu yang ingin dibeli ( Sesuai Dengan Ukuran Yang tersedia).
 #
 # ꜱᴛᴇᴘ 5
 #### Menginputkan Warna
@@ -94,7 +94,7 @@ Jika User menginputkan jumlah pembelian lebih dari 3 maka program akan error.
 
 
 # KESIMPULAN
- - Pewarisan adalah proses pen&iptaan &lass baru )engan mewarisi karekteristik &lass yang telah ada
+    Pewarisan adalah proses pen&iptaan &lass baru )engan mewarisi karekteristik &lass yang telah ada
  ### READ THIS !
 - [x] Latihan
 - [x] Challange
@@ -105,26 +105,6 @@ Jika User menginputkan jumlah pembelian lebih dari 3 maka program akan error.
 - [ ]  Dikasi Stars Viewers :v
 - [ ]  Jangan lupa Follow ya!!, para stalkers :V
 
-Follow Ig saia :v [Instagram](https://www.instagram.com/_sh3hub/). <== Click tulisan biru di samping 
+     Follow Ig saia :v [Instagram](https://www.instagram.com/_sh3hub/). <== Click tulisan biru di samping 
 
-        < CREATOR >
- ----------------
-    \
-     \
-                                   .::!!!!!!!:.
-  .!!!!!:.                        .:!!!!!!!!!!!!
-  ~~~~!!!!!!.                 .:!!!!!!!!!UWWW$$$ 
-      :$$NWX!!:           .:!!!!!!XUWW$$$$$$$$$P 
-      $$$$$##WX!:      .<!!!!UW$$$$"  $$$$$$$$# 
-      $$$$$  $$$UX   :!!UW$$$$$$$$$   4$$$$$* 
-      ^$$$B  $$$$\     $$$$$$$$$$$$   d$$R" 
-        "*$bd$$$$      '*$$$$$$$$$$$o+#" 
-             """"          """"""" 
 
-  _____          ____  _     _____ _   _       _      
- |_   _| __     / ___|| |__ |___ /| | | |_   _| |__   
-   | || '_ \    \___ \| '_ \  |_ \| |_| | | | | '_ \  
-   | || | | |_   ___) | | | |___) |  _  | |_| | |_) | 
-   |_||_| |_(_) |____/|_| |_|____/|_| |_|\__,_|_.__/  
-                                                      
-=================================================================== 
