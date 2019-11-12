@@ -28,10 +28,10 @@ Termasuk harga tetap / harga yang tidak dapat diubah (Kecuali Creator nya yang n
 Jadi Untuk yang List harga diatas saya menggunakan Set(buat set merk nya / buat nulis List Harga dan get(untuk memanggil sekaligus
 print nya) dan kemudian akan di panggil dengan get. 
 #### ᴜɴᴛᴜᴋ ꜱᴇᴛ ʜᴀʀɢᴀ
-> kuda.setMerk(" LIST BARANG + HARGANYA ");
+    kuda.setMerk(" LIST BARANG + HARGANYA ");
 
 #### ᴜɴᴛᴜᴋ ᴘᴇᴍᴀɴɢɢɪʟᴀɴ ᴅᴀʀɪ ʜᴀʀɢᴀ ʏᴀɴɢ ꜱᴜᴅᴀʜ ᴅɪ ꜱᴇᴛ
-> System.out.println("Merk    : " + kuda.getMerk());
+     System.out.println("Merk    : " + kuda.getMerk());
 
 
 - [x] Tapi Sebelum nya kita harus membuat Method nya terlebih dahulu di SuperClass
