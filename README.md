@@ -67,9 +67,16 @@ Jadi disini User juga harus menginputkan Ukuran sepatu yang ingin dibeli ( Sesua
 
 # 5
 #### Menginputkan Warna
-![Alt text](https://github.com/Syihabuddinsanni/Challange4_INHERITANCE/blob/master/SS%20RUN%20FILE/Input%20Pilihan%201.PNG)
+![Alt text](https://github.com/Syihabuddinsanni/Challange4_INHERITANCE/blob/master/SS%20RUN%20FILE/Input%205.PNG)
 # Penjelasan ?
 > Jadi disini adalah Langkah Pilihan yang terakhir yaitu dengan cara user diminta untuk menginputkan pilihan warna
 Sepatu yang ingin dibeli sesuai keinginan masing masing.
+
+# Final
+#### Menginputkan Jumlah Beli !
+![Alt text](https://github.com/Syihabuddinsanni/Challange4_INHERITANCE/blob/master/SS%20RUN%20FILE/Input%20Jumlah%20beli.PNG)
+# Penjelasan ?
+> Langkah selanjutnya di sini User akan diminta untuk menginputkan Jumlah barang yang ingin dibeli _Jumlah pembelian max 3 Barang_
+Jika User menginputkan jumlah pembelian lebih dari 3 maka program akan error.
 
 
