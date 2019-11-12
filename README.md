@@ -35,14 +35,15 @@ print nya) dan kemudian akan di panggil dengan get.
 
 
 - [x] Tapi Sebelum nya kita harus membuat Method nya terlebih dahulu di SuperClass
-# Step Input User
-# 1 
+#
+# == 𝓢𝓽𝓮𝓹 𝓘𝓷𝓹𝓾𝓽 𝓤𝓼𝓮𝓻 ==
+# ꜱᴛᴇᴘ 1 
 #### Disini kita Menginputkan Pilihan sesuai Dengan Angka Yang sudah tertera di List Harga
 ![Alt text](https://github.com/Syihabuddinsanni/Challange4_INHERITANCE/blob/master/SS%20RUN%20FILE/Input%20Pilihan%201.PNG)
 # How ?
 _Jadi kita / user harus mengginputkan_ **ANGKA** _Yang sudah tertera di dalam LIST tadi sesuai Pilihan dan budget user_
 #
-# 2
+# ꜱᴛᴇᴘ 2
 #### Menginputkan Jenis
 ![Alt text](https://github.com/Syihabuddinsanni/Challange4_INHERITANCE/blob/master/SS%20RUN%20FILE/Input%202.PNG)
 > Nah jadi disini setelah user menginputkan pilihan Merk nya tadi **Di INPUT 1** Kali ini User harus menginputkan
@@ -51,7 +52,7 @@ Pilihan Jenis yaitu Ada Cowok/Cewek Sesuai Kebutuhan dan keinginan User.
 
 
 
-# 3
+# ꜱᴛᴇᴘ 3
 #### Menginputkan Kategori
 ![Alt text](https://github.com/Syihabuddinsanni/Challange4_INHERITANCE/blob/master/SS%20RUN%20FILE/Input%203.PNG)
 
@@ -62,20 +63,20 @@ tertera di Program.
 
 - ex : Jika misal user ingin memilih kategori **_Olahraga_** jadi user hanya perlu mengetikan angka **"1"**
 #
-# 4
+# ꜱᴛᴇᴘ 4
 #### Menginputkan Ukuran
 ![Alt text](https://github.com/Syihabuddinsanni/Challange4_INHERITANCE/blob/master/SS%20RUN%20FILE/Input%204.PNG)
 # Penjelasan ?
 Jadi disini User juga harus menginputkan Ukuran sepatu yang ingin dibeli ( Sesuai Dengan Ukuran Yang tersedia).
 #
-# 5
+# ꜱᴛᴇᴘ 5
 #### Menginputkan Warna
 ![Alt text](https://github.com/Syihabuddinsanni/Challange4_INHERITANCE/blob/master/SS%20RUN%20FILE/Input%205.PNG)
 # Penjelasan ?
 > Jadi disini adalah Langkah Pilihan yang terakhir yaitu dengan cara user diminta untuk menginputkan pilihan warna
 Sepatu yang ingin dibeli sesuai keinginan masing masing.
 #
-# 6 (Final)
+# ꜱᴛᴇᴘ 6 (Final)
 #### Menginputkan Jumlah Beli !
 ![Alt text](https://github.com/Syihabuddinsanni/Challange4_INHERITANCE/blob/master/SS%20RUN%20FILE/Input%20Jumlah%20beli.PNG)
 # Penjelasan ?
