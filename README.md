@@ -50,7 +50,7 @@ Pilihan Jenis yaitu Ada Cowok/Cewek Sesuai Kebutuhan dan keinginan User.
 
 # 3
 #### Menginputkan Kategori
-![Alt text](https://github.com/Syihabuddinsanni/Challange4_INHERITANCE/blob/master/SS%20RUN%20FILE/Input%20Pilihan%201.PNG)
+![Alt text](https://github.com/Syihabuddinsanni/Challange4_INHERITANCE/blob/master/SS%20RUN%20FILE/Input%203.PNG)
 
 Jadi Selanjutnya User akan diminta untuk menginputkan Kategori pilihan User / Sesuai kebutuhan user Sesuai dengan yang
 tertera di Program.
@@ -61,14 +61,15 @@ tertera di Program.
 
 # 4
 #### Menginputkan Ukuran
+![Alt text](https://github.com/Syihabuddinsanni/Challange4_INHERITANCE/blob/master/SS%20RUN%20FILE/Input%204.PNG)
+# Penjelasan ?
+Jadi disini User juga harus menginputkan Ukuran sepatu yang ingin dibeli ( Sesuai Dengan Ukuran Yang tersedia).
+
+# 5
+#### Menginputkan Warna
 ![Alt text](https://github.com/Syihabuddinsanni/Challange4_INHERITANCE/blob/master/SS%20RUN%20FILE/Input%20Pilihan%201.PNG)
+# Penjelasan ?
+> Jadi disini adalah Langkah Pilihan yang terakhir yaitu dengan cara user diminta untuk menginputkan pilihan warna
+Sepatu yang ingin dibeli sesuai keinginan masing masing.
 
-Jadi disini User juga harus menginputkan Ukuran sepatu yang ingin dibeli ( Sesuai Dengan Ukuran Yang tersedia
-
-
-
-
-
-
-![Alt text](https://github.com/Syihabuddinsanni/Challange4_INHERITANCE/blob/master/SS%20RUN%20FILE/Input%20Pilihan%201.PNG)
 
