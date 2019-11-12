@@ -14,23 +14,23 @@ adalah class anak.
 #
 # ʀᴇᴄʜᴀᴘᴛᴀ!
 ![Alt text](https://github.com/Syihabuddinsanni/Challange4_INHERITANCE/blob/master/SS%20RUN%20FILE/ReChapta!.PNG)
-## Apa Itu ?
+## ᴀᴘᴀ ɪᴛᴜ ?
 _Rechapta adalah suatu tes kecil kecilan / tebak tebakan sederhana yang ada di suatu program biasanya di gunakan 
 di Website website yang tujuannya adalah untuk menghindari_ **BOT**_ :V
 
 # Ini Step Cara Menggunakan Program dengan baik dan benar !
-## List Harga
+## -- list harga -- 
 ![Alt text](https://github.com/Syihabuddinsanni/Challange4_INHERITANCE/blob/master/SS%20RUN%20FILE/List%20Harga.PNG)
 #
 > Jadi ini adalah List harga dan barang yang ada di dalam TOKO JAYA LAMA SPORTS. Harga di dalam Program tersebut Sudah 
 Termasuk harga tetap / harga yang tidak dapat diubah (Kecuali Creator nya yang ngerubah :v) 
-## Code
+## ᴄᴏᴅᴇ
 Jadi Untuk yang List harga diatas saya menggunakan Set(buat set merk nya / buat nulis List Harga dan get(untuk memanggil sekaligus
 print nya) dan kemudian akan di panggil dengan get. 
-#### Untuk Set Harga
+#### ᴜɴᴛᴜᴋ ꜱᴇᴛ ʜᴀʀɢᴀ
 > kuda.setMerk(" LIST BARANG + HARGANYA ");
 
-#### Untuk Pemanggilan dari Harga yang sudah di set 
+#### ᴜɴᴛᴜᴋ ᴘᴇᴍᴀɴɢɢɪʟᴀɴ ᴅᴀʀɪ ʜᴀʀɢᴀ ʏᴀɴɢ ꜱᴜᴅᴀʜ ᴅɪ ꜱᴇᴛ
 > System.out.println("Merk    : " + kuda.getMerk());
 
 
