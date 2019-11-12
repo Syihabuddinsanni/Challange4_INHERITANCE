@@ -32,9 +32,9 @@ print nya) dan kemudian akan di panggil dengan get.
 
 
 - [x] Tapi Sebelum nya kita harus membuat Method nya terlebih dahulu di SuperClass
-
+# Step Input User
 # 1 
 #### Disini kita Menginputkan Pilihan sesuai Dengan Angka Yang sudah tertera di List Harga
 ![Alt text](https://github.com/Syihabuddinsanni/Challange4_INHERITANCE/blob/master/SS%20RUN%20FILE/Input%20Pilihan%201.PNG)
-#
+# How ?
 _Jadi kita / user harus mengginputkan_ **ANGKA** _Yang sudah tertera di dalam LIST tadi sesuai Pilihan dan budget user_
